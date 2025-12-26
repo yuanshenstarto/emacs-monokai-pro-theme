@@ -7,8 +7,8 @@
 (defvar monokai-pro-light-sun-theme-colors
   '(;; Background and foreground colors
     :bg     "#f8efe7"
-    :bg+1   "#cbb19a"
-    :bg+2   "#a77f5c"
+    :bg+1   "#ede0d5"
+    :bg+2   "#e1ccb9"
     :fg-4   "#b1a9b5"
     :fg-3   "#8e8791"
     :fg-2   "#665e69"
