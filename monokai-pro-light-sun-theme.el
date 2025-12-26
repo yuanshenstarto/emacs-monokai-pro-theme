@@ -21,7 +21,7 @@
     :orange "#e25016"
     :yellow "#b16803"
     :green  "#218871"
-    :blue   "#d4572b"
+    :blue   "#2473b6"
     :purple "#6851a2" ;; magenta
     :pink   "#ff657a"
 
