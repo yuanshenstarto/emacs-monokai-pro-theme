@@ -133,14 +133,14 @@
      (font-lock-doc-face                           :foreground fg-3)
      (font-lock-doc-string-face                    :foreground fg-3)
      (font-lock-function-name-face                 :foreground green)
-     (font-lock-keyword-face                       :foreground pink)
+     (font-lock-keyword-face                       :foreground red)
      ;;(font-lock-negation-char-face                 :foreground fg-1)
      ;;(font-lock-preprocessor-face                  :foreground fg-1)
      ;;(font-lock-regexp-grouping-backslash          :foreground fg-1)
      ;;(font-lock-regexp-grouping-construct          :foreground fg)
      (font-lock-string-face                        :foreground yellow)
      (font-lock-type-face                          :foreground blue)
-     (font-lock-variable-name-face                 :foreground fg)
+     (font-lock-variable-name-face                 :foreground purple)
      (font-lock-warning-face                       :foreground orange)
 
 ;;;; isearch
